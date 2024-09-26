@@ -94,6 +94,10 @@ namespace NunitSelenium.Selenium
 
 
         }
+        public void testcase2()
+        {
+
+        }
         [TearDown]
         public void tearDownrowser()
         {
