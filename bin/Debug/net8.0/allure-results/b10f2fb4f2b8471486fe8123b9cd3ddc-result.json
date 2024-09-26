@@ -1,0 +1,52 @@
+{
+  "uuid": "08116b7d-41f0-48ee-a2ba-242ce90d54d7",
+  "historyId": "6db17b7a1004b7c9815266a3d5d096bc",
+  "testCaseId": "ea4ff7b55f81fddfc9fd17591170f658",
+  "fullName": "NunitSelenium:NunitSelenium.UnitTests.Tests.Test1()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOHKOHXP177IQ"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NunitSelenium.UnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "Test1"
+    },
+    {
+      "name": "testClass",
+      "value": "Tests"
+    }
+  ],
+  "links": [],
+  "name": "Test1",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Test Passed",
+    "trace": "   at NunitSelenium.UnitTests.Tests.Test1() in C:\\Users\\vamvi\\source\\repos\\NunitSelenium\\UnitTests\\UnitTest1.cs:line 14\r\n"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1726718248225,
+  "stop": 1726718248239
+}

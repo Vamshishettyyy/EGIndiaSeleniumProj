@@ -1,0 +1,55 @@
+{
+  "uuid": "7fbf127e-8012-4568-b650-5a014eaef9c9",
+  "historyId": "60184b278e60f943cc8413ec6a1058f4",
+  "testCaseId": "4a8ee91bdad0d075392c43f7d9d6f76d",
+  "fullName": "NunitSelenium:NunitSelenium.UnitTests.CategorySetting.addtocart()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOHKOHXP177IQ"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NunitSelenium.UnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "addtocart"
+    },
+    {
+      "name": "testClass",
+      "value": "CategorySetting"
+    },
+    {
+      "name": "tag",
+      "value": "Sanity,Regression"
+    }
+  ],
+  "links": [],
+  "name": "addtocart",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "bc074eec-287e-4b45-8810-aadb44c75d56-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1726568596666,
+  "stop": 1726568596668
+}

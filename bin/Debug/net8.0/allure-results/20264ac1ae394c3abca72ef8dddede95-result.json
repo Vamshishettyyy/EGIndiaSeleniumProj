@@ -1,0 +1,45 @@
+{
+  "uuid": "5bab305f-d6b0-49e8-bb6c-c08ab71a382b",
+  "historyId": "76c1767bf8ecf47ae562c7ea54fb6f20",
+  "testCaseId": "0e67e731a50eaae7c86714923184c6f7",
+  "fullName": "NunitSelenium:NunitSelenium.UnitTests.CalculatorUnittesting.MulTest()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOHKOHXP177IQ"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NunitSelenium.UnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "MulTest"
+    },
+    {
+      "name": "testClass",
+      "value": "CalculatorUnittesting"
+    }
+  ],
+  "links": [],
+  "name": "MulTest",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1726568596658,
+  "stop": 1726568596659
+}

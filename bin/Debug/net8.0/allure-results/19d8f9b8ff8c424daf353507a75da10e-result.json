@@ -1,0 +1,49 @@
+{
+  "uuid": "8aeba45d-c06d-4371-93bf-8e1735f918d1",
+  "historyId": "840976528716d67b34119cd412bf25b5",
+  "testCaseId": "24775812907e019370a9ea6e8e42a134",
+  "fullName": "NunitSelenium:NunitSelenium.Selenium.ParaBank.loginUser()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOHKOHXP177IQ"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NunitSelenium.Selenium"
+    },
+    {
+      "name": "testMethod",
+      "value": "loginUser"
+    },
+    {
+      "name": "testClass",
+      "value": "ParaBank"
+    },
+    {
+      "name": "tag",
+      "value": "login"
+    }
+  ],
+  "links": [],
+  "name": "loginUser",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1727091345935,
+  "stop": 1727091360527
+}

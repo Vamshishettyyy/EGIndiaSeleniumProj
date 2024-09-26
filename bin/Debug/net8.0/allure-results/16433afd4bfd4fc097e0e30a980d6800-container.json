@@ -1,0 +1,12 @@
+{
+  "uuid": "214995d4-4f91-4eb2-a1be-79272016aafb",
+  "name": "NunitSelenium.UnitTests.CategorySetting.login",
+  "children": [
+    "b33cceee-93ee-4bbe-a551-67d4dd1547dd"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1726568596671,
+  "stop": 1726568596673
+}

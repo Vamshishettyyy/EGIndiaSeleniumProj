@@ -1,0 +1,12 @@
+{
+  "uuid": "a03e466c-7aa1-4994-885b-6a9e11e06f2c",
+  "name": "NunitSelenium.UnitTests.AllureTestReportGen.login",
+  "children": [
+    "c7b1f8bf-ce1e-4e69-850a-9ae6ef52f1a2"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1726568596549,
+  "stop": 1726568596604
+}

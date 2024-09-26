@@ -1,0 +1,12 @@
+{
+  "uuid": "c35220b1-e7c9-4114-9aec-3805e4947237",
+  "name": "NunitSelenium.Selenium.ParaBank",
+  "children": [
+    "8aeba45d-c06d-4371-93bf-8e1735f918d1"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1727091345923,
+  "stop": 1727091360581
+}

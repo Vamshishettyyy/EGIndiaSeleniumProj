@@ -1,0 +1,52 @@
+{
+  "uuid": "52c9ebd2-7621-4139-9f0b-59fcb12a56ca",
+  "historyId": "947984565d91acadfc9f8ebb7a90a181",
+  "testCaseId": "954ce27086cbc1774302fc62f2b4e892",
+  "fullName": "NunitSelenium:NunitSelenium.UnitTests.Description.login()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOHKOHXP177IQ"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NunitSelenium.UnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "login"
+    },
+    {
+      "name": "testClass",
+      "value": "Description"
+    }
+  ],
+  "links": [],
+  "name": "login",
+  "status": "passed",
+  "stage": "finished",
+  "description": "verifies login functionalities\n",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "1776e235-3d81-4e94-9f2d-ed7a192c993d-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1726568596676,
+  "stop": 1726568596678
+}

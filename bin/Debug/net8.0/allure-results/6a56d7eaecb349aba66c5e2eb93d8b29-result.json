@@ -1,0 +1,55 @@
+{
+  "uuid": "fe1f2548-04f5-49a8-8194-47180ee6afc9",
+  "historyId": "1259c00dc734f076e801a3c71b074b97",
+  "testCaseId": "c53e7c3cc801d85fdbd1bb797e812226",
+  "fullName": "NunitSelenium:NunitSelenium.Selenium.ParaBank.RegisterNewUser()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOHKOHXP177IQ"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NunitSelenium.Selenium"
+    },
+    {
+      "name": "testMethod",
+      "value": "RegisterNewUser"
+    },
+    {
+      "name": "testClass",
+      "value": "ParaBank"
+    },
+    {
+      "name": "tag",
+      "value": "register"
+    }
+  ],
+  "links": [],
+  "name": "RegisterNewUser",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "2c1a148c-117e-4ad6-b391-4d852a9add76-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1727091397875,
+  "stop": 1727091425875
+}

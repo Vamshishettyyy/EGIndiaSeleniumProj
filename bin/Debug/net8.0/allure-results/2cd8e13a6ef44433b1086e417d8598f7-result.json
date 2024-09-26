@@ -1,0 +1,45 @@
+{
+  "uuid": "52583c4d-2c47-424c-845f-381f64ffc53b",
+  "historyId": "fbae9c948105587766de48d29d21096a",
+  "testCaseId": "7b25332ab2d0d8d78c7571416675c1c9",
+  "fullName": "NunitSelenium:NunitSelenium.UnitTests.CalculatorUnittesting.DivTest()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOHKOHXP177IQ"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NunitSelenium.UnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "DivTest"
+    },
+    {
+      "name": "testClass",
+      "value": "CalculatorUnittesting"
+    }
+  ],
+  "links": [],
+  "name": "DivTest",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1726718248169,
+  "stop": 1726718248169
+}
